@@ -15,7 +15,9 @@ Eine einfache, moderne To-Do-Listen-App mit Kategorien und Sidebar, entwickelt i
 
   
 
-🧠 Ideen für zukünftige Features
+🧠 Ideen für zukünftige Features:
+
+
 🔃 Aufgaben bearbeiten
 
 🗃 Kategorien umbenennen / löschen
