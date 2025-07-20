@@ -13,7 +13,7 @@ Eine einfache, moderne To-Do-Listen-App mit Kategorien und Sidebar, entwickelt i
 - ★ Aufgaben als "Wichtig" markieren
 - Sidebar ein- und ausblendbar, mit Fixierfunktion
 
-- 
+  
 
 🧠 Ideen für zukünftige Features
 🔃 Aufgaben bearbeiten
